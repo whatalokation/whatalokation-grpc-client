@@ -27,7 +27,7 @@ public class GreeterClientTest {
 
 	String environment = null;
 	int port;
-	GreeterClient bclient;
+	GreeterClient gclient;
 
 	private static final Logger logger = Logger.getLogger("Whatalokation");
 	
